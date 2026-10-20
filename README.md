@@ -1,4 +1,4 @@
-# remys-thoughtsRemy's Thoughts
+Remy's Thoughts
 Meet Remy, a big-headed, slightly suspicious black pug with very strong opinions about snacks, naps, and the mailman. Tap him to wake him up, then let him share his thoughts out loud or ask him a question by voice or text. Remy barks, grumbles, and answers in his own deep little voice, with a 3D scene that shows off soft lighting, shadows, and a wagging tail.
 Features
 A 3D pug you can tap, with blinking, breathing, head tilts, and a wagging tail
