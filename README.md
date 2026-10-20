@@ -1,6 +1,3 @@
-Remy the black pug is ornery, opinionated, and happy to share every thought he has.
-
-
 #!/data/data/com.termux/files/usr/bin/bash
 # Remy's Thoughts - all-in-one installer + local server for Termux (Android)
 set -e
